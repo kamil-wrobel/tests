@@ -1,3 +1,4 @@
+
 import unittest
 
 from eternal.main import calculate, main
